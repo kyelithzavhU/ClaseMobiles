@@ -17,5 +17,6 @@ public class Carro{
 	public int getVelocidad(){
 		return velocidad;
 	}
+	/*/holis/*/
 
 }
